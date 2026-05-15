@@ -14,7 +14,7 @@
 - **Resource Optimized:** Multi-processing core designed for laptop-based Red Team operations.
 
 ##⚖️ Legal Disclaimer
-This tool is for educational and authorized security testing only. The author (Hpperr) is not responsible for any misuse. Unauthorized access to networks is illegal.
+This tool is for educational and authorized security testing only. The author Hpperr is not responsible for any misuse. Unauthorized access to networks is illegal.
 ## 🛠 Installation & Usage
 
 ```bash
