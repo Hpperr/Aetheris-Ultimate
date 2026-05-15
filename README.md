@@ -13,6 +13,8 @@
 - **Precision Isolation:** Targeted Deauth for neutralizing devices (e.g., IP Cameras) with millisecond accuracy.
 - **Resource Optimized:** Multi-processing core designed for laptop-based Red Team operations.
 
+##⚖️ Legal Disclaimer
+This tool is for educational and authorized security testing only. The author (Hpperr) is not responsible for any misuse. Unauthorized access to networks is illegal.
 ## 🛠 Installation & Usage
 
 ```bash
@@ -22,3 +24,4 @@ cd Aetheris-Ultimate
 
 # Run with root privileges
 sudo python3 aetheris_ultimate.py <interface>
+
